@@ -22,7 +22,7 @@
 ## Технические навыки
 
 ### Языки программирования
-- **[Python](https://img.shields.io/badge/python-3.14-yellow?style=flat-square&logo=python&logoColor=yellow)** — уверенное владение
+- **![Python](https://img.shields.io/badge/python-3.14-yellow?style=flat-square&logo=python&logoColor=yellow)** — уверенное владение
 
 ### Фреймворки и библиотеки
 - **aiogram** — разработка Telegram-ботов
