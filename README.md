@@ -6,8 +6,8 @@
 ---
 
 ## Контакты
-- GitHub: https://github.com/FLYXSE
-- Telegram: @kwiken_lab / kwiken_lab.t.me
+- [GitHub](https://github.com/FLYXSE)
+- [Telegram](https://t.me/kwiken_lab)
 
 ---
 
@@ -39,7 +39,7 @@
 
 ## Проекты
 
-Все проекты доступны на GitHub: https://github.com/FLYXSE
+Все проекты доступны на [GitHub](https://github.com/FLYXSE)
 
 ### Что реализовано:
 - Telegram-боты с различным функционалом
