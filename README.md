@@ -25,8 +25,8 @@
 - **![Python](https://img.shields.io/badge/python-3.14-yellow?style=flat-square&logo=python&logoColor=yellow)** — уверенное владение
 
 ### Фреймворки и библиотеки
-- **aiogram** — разработка Telegram-ботов
-- **pyrogram** — работа с Telegram API
+- **![aiogram](https://img.shields.io/badge/aiogram-3.x-yellow?style=flat-square&logo=python&logoColor=yellow)** — разработка Telegram-ботов
+- **![pyrogram](https://img.shields.io/badge/pyrogram-2.x-yellow?style=flat-square&logo=python&logoColor=yellow)** — работа с Telegram API
 
 ### Операционные системы
 - **Linux** — администрирование, работа в командной строке, настройка окружения
