@@ -10,12 +10,12 @@
 ---
 ---
 ## **Навыки**
-- ![python-3.14](https://img.shields.io/badge/python-3.14-yellow?style=flat-square&logo=python) - уверенное владение
+- ![python-3.14](https://img.shields.io/badge/python-3.14-yellow?style=flat-square&logo=python) — уверенное владение
 - ---
-- ![aiogram-3x](https://img.shields.io/badge/aiogram-3.x-blue?style=flat-square) - разработка Telegram-ботов
-- ![pyrogram-2x](https://img.shields.io/badge/pyrogram-2.x-orange?style=flat-square) - работа с Telegram API
-- ![git](https://img.shields.io/badge/git-2.x-black?style=flat-square&logo=github) - работа с GitHub
-- 
+- ![aiogram-3x](https://img.shields.io/badge/aiogram-3.x-blue?style=flat-square) — разработка Telegram-ботов
+- ![pyrogram-2x](https://img.shields.io/badge/pyrogram-2.x-orange?style=flat-square) — работа с Telegram API
+- ![git](https://img.shields.io/badge/git-2.x-black?style=flat-square&logo=github) — работа с GitHub
+- ![markdown](https://img.shields.io/badge/markdown-gray?style=flat-square&logo=markdown) — работа с markdown
 ---
 ---
 ## **Проекты**
