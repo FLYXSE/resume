@@ -28,7 +28,17 @@
 - [TG Assistant](https://github.com/FLYXSE/TG-Assistant)
 ---
 ---
-
-
-
-
+## **Образование**
+- ![python-3.14](https://img.shields.io/badge/python-3.14-yellow?style=flat-square&logo=python) — онлайн курс
+- ![aiogram-3x](https://img.shields.io/badge/aiogram-3.x-blue?style=flat-square) — видео курс
+---
+---
+## **Языки**
+- Русский — родной
+- Английский — хороший уровень (чтение технической документации, общение)
+---
+---
+## **Цели**
+- Получить практический опыт в IT-команде
+- Развить навыки разработки до профессионального уровня
+- Возможность дальнейшего трудоустройства
