@@ -1,75 +1,49 @@
-# Резюме
-
-**Алексей, 14 лет**
-Ученик 8 класса
-
+# Алексей
 ---
-
-## Контакты
-- [GitHub](https://github.com/FLYXSE)
-- [Telegram](https://t.me/kwiken_lab)
-
+### Резюме
 ---
-
-## О себе
-
-Начинающий Python-разработчик с опытом создания Telegram-ботов. Активно изучаю современные технологии разработки и стремлюсь к профессиональному росту в IT. Ищу стажировку (оплачиваемую или неоплачиваемую) для получения реального опыта работы и дальнейшего трудоустройства в компании.
-
-Готов к удалённой работе и готов к изучению новых технологий.
-
 ---
-
-## Технические навыки
-
-### Языки программирования
-- **Python** — уверенное владение
-
-### Фреймворки и библиотеки
-- **aiogram** — разработка Telegram-ботов
-- **pyrogram** — работа с Telegram API
-
-### Операционные системы
-- **Linux** — администрирование, работа в командной строке, настройка окружения
-- **Windows**
-
-### Инструменты
-- **Git** — контроль версий, работа с GitHub
-
+## **О себе**
+- 14 лет, 8 класс, Отличник
+- Python-разработчик
+- Большой опыт работы с Telegram Bot's (aiogram)
 ---
-
-## Проекты
-
-Все проекты доступны на [GitHub](https://github.com/FLYXSE)
-
-### Telegram-боты:
-- **[@lesy_polotno_bot](https://t.me/lesy_polotno_bot)** — аўдыягід музейнай экспазіцыі “Лёсу палатно”
-- **[@Graf_Tolochko_Bot](https://t.me/Graf_Tolochko_Bot)** — бот про вердомичскую усадьбу графа Толочко
-
 ---
-
-## Образование
-
-- **Курс Python** (онлайн)
-- **Курс aiogram** (онлайн)
-
+## **Навыки**
+- ![python-3.14](https://img.shields.io/badge/python-3.14-yellow?style=flat-square&logo=python) — уверенное владение
+- ---
+- ![aiogram-3x](https://img.shields.io/badge/aiogram-3.x-blue?style=flat-square) — разработка Telegram-ботов
+- ![pyrogram-2x](https://img.shields.io/badge/pyrogram-2.x-orange?style=flat-square) — работа с Telegram API
+- ![git](https://img.shields.io/badge/git-2.x-black?style=flat-square&logo=github) — работа с GitHub
+- ![markdown](https://img.shields.io/badge/markdown-gray?style=flat-square&logo=markdown) — работа с markdown
 ---
-
-## Языки
-
-- **Русский** — родной
-- **Английский** — хороший уровень (чтение технической документации, общение)
-
 ---
-
-## Формат работы
-
-- Удалённая работа
-
+## **Проекты**
+### Telegram bot:
+- [@lesy_polotno_bot](https://t.me/lesy_polotno_bot)
+- [@Graf_Tolochko_Bot](https://t.me/Graf_Tolochko_Bot)
 ---
-
-## Цели
-
+- [Mem Dice](https://github.com/FLYXSE/MemDice)
+- [LSD Assistant](https://github.com/FLYXSE/LSD-Assistant)
+- [TG Assistant](https://github.com/FLYXSE/TG-Assistant)
+---
+---
+## **Образование**
+- ![python-3.14](https://img.shields.io/badge/python-3.14-yellow?style=flat-square&logo=python) — онлайн курс
+- ![aiogram-3x](https://img.shields.io/badge/aiogram-3.x-blue?style=flat-square) — видео курс
+---
+---
+## **Языки**
+- Русский — родной
+- Английский — хороший уровень (чтение технической документации, общение)
+---
+---
+## **Цели**
 - Получить практический опыт в IT-команде
-- Найти ментора для роста
 - Развить навыки разработки до профессионального уровня
 - Возможность дальнейшего трудоустройства
+---
+---
+## **Связь и Соц.Сети**
+- Telegram — [@kwiken_lab](https://t.me/kwiken_lab)
+- GitHub — [FLYXSE](https://github.com/FLYXSE)
